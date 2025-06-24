@@ -1,5 +1,3 @@
-### **README.md File**
-
 # BikeStores Sales Analysis with Python
 
 ## Overview
